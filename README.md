@@ -6,10 +6,13 @@
 >查看我之前的项目
 >[Lab 1. Coffeebeans Management System](https://github.com/10249204/coffeemanager)
 
+## 项目概览
+
 | 项目项 | 说明 |
+| --- | --- |
 | 开发语言 | C++ |
-| 技术栈  | C++ ,stl，cmake|
----
+| 技术栈  | C++ , stl , cmake |
+
 
 ## 任务
 
