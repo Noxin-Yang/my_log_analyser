@@ -3,7 +3,9 @@
 这里的项目记录了我在中山大学计算机学院就读时完成的个人c++ lab 项目，以记录学习进度，提升能力
 >
 > 这是一个基于 C++ 的命令行日志分析工具，用于分析 `access.log`，输出 5XX 请求，并统计给定时间窗口内的最大请求量区间。
->查看我之前的项目
+>
+>查看我之前的项目:
+>
 >[Lab 1. Coffeebeans Management System](https://github.com/10249204/coffeemanager)
 
 ## 项目概览
