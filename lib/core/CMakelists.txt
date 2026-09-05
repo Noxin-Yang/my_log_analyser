@@ -1,0 +1,11 @@
+add_library(line_parser
+			line_parser.h
+			line_parser.cpp)
+
+add_library(path_resolver
+			path_resolver.cpp
+			path_resolver.h)
+
+add_library(time_parser
+			time_parser.h
+			time_parser.cpp)

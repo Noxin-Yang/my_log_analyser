@@ -1,0 +1,3 @@
+add_library(processLog
+			processLog.h
+			processLog.cpp)

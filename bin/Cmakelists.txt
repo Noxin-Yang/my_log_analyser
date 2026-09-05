@@ -1,0 +1,14 @@
+add_executable(${PROJECT_NAME} main.cpp)
+
+set(MY_LIBS
+    line_parser
+    path_resolver
+    time_parser
+    processLog
+    error_stats
+    window_analyzer
+)
+
+target_link_libraries(${PROJECT_NAME} PRIVATE ${MY_LIBS})
+
+set_target_properties(${PROJECT_NAME} PROPERTIES VS_DEBUGGER_WORKING_DIRECTORY "${CMAKE_SOURCE_DIR}")

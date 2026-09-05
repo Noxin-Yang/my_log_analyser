@@ -1,0 +1,9 @@
+add_library(
+error_stats
+error_stats.h	
+error_stats.cpp)
+
+add_library(
+window_analyzer
+window_analyzer.h	
+window_analyzer.cpp)
