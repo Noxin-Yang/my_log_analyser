@@ -6,7 +6,7 @@
 >
 >查看我之前的项目:
 >
->[Lab 1. Coffeebeans Management System](https://github.com/10249204/coffeemanager)
+>[Lab 1. Coffeebeans Management System](https://github.com/Noxin-Yang/my_log_analyser)
 
 ## 项目概览
 
